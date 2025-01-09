@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483708214064",
+    "project_id": "towbitowprovider1224",
+    "storage_bucket": "towbitowprovider1224.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483708214064:android:d34822a42432b3000b06f5",
+        "android_client_info": {
+          "package_name": "com.towbitowprovider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJ5KKHp3oCaeCs289r3PFdki99wfe8QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
